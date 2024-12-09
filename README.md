@@ -31,8 +31,8 @@ Users enter a question context and test question. This application uses the Lang
 
 Examples:
 <p align="center">
-  <img width="449" alt="image" src="https://github.com/user-attachments/assets/37405e93-ff4c-4aa3-89ed-5977755cdebc">
-  <img width="446" alt="image" src="https://github.com/user-attachments/assets/3fba792b-3860-46ae-b1f1-7e48d7187ce9">
+  <img width="300" alt="image" src="https://github.com/user-attachments/assets/37405e93-ff4c-4aa3-89ed-5977755cdebc">
+  <img width="300" alt="image" src="https://github.com/user-attachments/assets/3fba792b-3860-46ae-b1f1-7e48d7187ce9">
 </p>
 
 #### 📝 View/Edit Test & 📚 View/Edit Answer Key
@@ -40,8 +40,8 @@ The user can view the test and answer key, where they can delete questions from 
 
 Examples:
 <p align="center">
-  <img width="373" alt="image" src="https://github.com/user-attachments/assets/e2c6bb4e-a210-4aeb-b902-960431900d36">
-  <img width="376" alt="image" src="https://github.com/user-attachments/assets/99adb852-9858-4c93-be50-7398b64ad513">
+  <img width="300" alt="image" src="https://github.com/user-attachments/assets/e2c6bb4e-a210-4aeb-b902-960431900d36">
+  <img width="300" alt="image" src="https://github.com/user-attachments/assets/99adb852-9858-4c93-be50-7398b64ad513">
 </p>
 
 #### 📥 Download Files
