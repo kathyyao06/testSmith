@@ -62,7 +62,10 @@ def get_questionId():
     rows = cursor.fetchone()
     conn.commit()
     conn.close()
-    return rows[0] + 1
+    if rows[0] == None:
+        return 1
+    else:
+        return rows[0] + 1
 
 # Insert question into DB
 def insert_into_tests(question, correctAnswer, questionId):
@@ -147,7 +150,7 @@ def generate_test(data, title, instructions, includeAnswers = False):
     <head>
     <style>
         p.question {
-        line-height: .3;
+        line-height: 1;
         }
 
         div.answers {
@@ -366,7 +369,7 @@ with downloadPage:
     id, title, instructions = get_test_metadata()
 
     pdf_buffer = generate_test(test_data, title, instructions)
-    st.download_button("Download Test PDF", data=pdf_buffer, file_name="test_questions.pdf", mime="application/pdf")
+    st.download_button("Download Test PDF", data=pdf_buffer, file_name=f"{title}.pdf", mime="application/pdf")
 
     pdf_buffer = generate_test(test_data, title, instructions, includeAnswers = True)
-    st.download_button("Download Answer Key PDF", data=pdf_buffer, file_name="answer_key.pdf", mime="application/pdf")
+    st.download_button("Download Answer Key PDF", data=pdf_buffer, file_name=f"{title}_answer_key.pdf", mime="application/pdf")
