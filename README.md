@@ -13,7 +13,11 @@ TestSmith utilizes Generative AI to create multiple-choice tests and answer keys
 - **📝 View/Edit Test & 📚 View/Edit Answer Key:** View and delete questions from test and answer key.
 - **📥 Download Files:** Download test and answer key.
 
-#### Introduction
+#### Demo
+
+https://github.com/user-attachments/assets/8bd8a2a6-7f68-44b9-90ef-9a8f584496ec
+
+
 
 <p align="center">
   <img width="800" alt="image" src="https://github.com/user-attachments/assets/1c5c56f5-6478-4cad-9a38-1d989a8343dd">
