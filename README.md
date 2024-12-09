@@ -13,5 +13,6 @@ TestSmith utilizes Generative AI to create multiple-choice tests and answer keys
 <img width="1056" alt="image" src="https://github.com/user-attachments/assets/1c5c56f5-6478-4cad-9a38-1d989a8343dd">
 
 ## Generate Multiple Choice Answers given test question and context
-<img width="1374" alt="image" src="https://github.com/user-attachments/assets/6c5096c3-7c76-4632-b3e4-7c01095d96d4">
+<img width="976" alt="image" src="https://github.com/user-attachments/assets/121a35ff-01d0-42aa-935b-e89964352ab7">
+
 
