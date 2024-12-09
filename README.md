@@ -18,11 +18,22 @@ TestSmith utilizes Generative AI to create multiple-choice tests and answer keys
 https://github.com/user-attachments/assets/4bd6303c-3d06-4285-8f6c-bdd29a1ea404
 
 #### ✍ Add Questions to Test
+Users enter a question context and test question. This application uses the Langchain "gregkamradt/test-question-making" prompt and OpenAI GPT-3.5 to generate multiple-choice answers. Users can add the question to their test, as well as review and edit the question, generated answers, and correct answer. 
+
+Examples:
 <p align="center">
   <img width="449" alt="image" src="https://github.com/user-attachments/assets/37405e93-ff4c-4aa3-89ed-5977755cdebc">
   <img width="446" alt="image" src="https://github.com/user-attachments/assets/3fba792b-3860-46ae-b1f1-7e48d7187ce9">
 </p>
 
+#### 📝 View/Edit Test & 📚 View/Edit Answer Key
+The user can view the test and answer key, where they can delete questions from the test.
+
+Examples:
+<p align="center">
+  <img width="373" alt="image" src="https://github.com/user-attachments/assets/e2c6bb4e-a210-4aeb-b902-960431900d36">
+  <img width="376" alt="image" src="https://github.com/user-attachments/assets/99adb852-9858-4c93-be50-7398b64ad513">
+</p>
 
 #### Responsible Use Disclaimer
 <img width="601" alt="image" src="https://github.com/user-attachments/assets/b817f181-20b8-44be-bf77-a16c57600dfe">
