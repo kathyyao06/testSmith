@@ -9,7 +9,7 @@ TestSmith utilizes Generative AI to create multiple-choice tests and answer keys
 
 ### Application Overview
 - 📢 **Introductions Page:** Website Overview, and Add Test Metadata (Title, Instructions)
-- ✍ **Add Question to Test:** Enter question context and test question to generate multiple choice answers. Manually edit generated answers. Add question and multiple choice answers to test.
+- ✍ **Add Questions to Test:** Enter question context and test question to generate multiple choice answers. Manually edit generated answers. Add question and multiple choice answers to test.
 - **📝 View/Edit Test & 📚 View/Edit Answer Key:** View and delete questions from test and answer key.
 - **📥 Download Files:** Download test and answer key.
 
