@@ -16,3 +16,11 @@ TestSmith utilizes Generative AI to create multiple-choice tests and answer keys
 #### Demo
 
 https://github.com/user-attachments/assets/8bd8a2a6-7f68-44b9-90ef-9a8f584496ec
+
+
+
+https://github.com/user-attachments/assets/4bd6303c-3d06-4285-8f6c-bdd29a1ea404
+
+
+
+Github Link: https://github.com/kathyyao06/testSmith
