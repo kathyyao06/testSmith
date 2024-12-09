@@ -12,6 +12,7 @@ TestSmith utilizes Generative AI to create multiple-choice tests and answer keys
 - ✍ **Add Questions to Test:** Enter question context and test question to generate multiple choice answers. Manually edit generated answers. Add question and multiple choice answers to test.
 - **📝 View/Edit Test & 📚 View/Edit Answer Key:** View and delete questions from test and answer key.
 - **📥 Download Files:** Download test and answer key.
+- **❗ Disclaimer:** Responsible Use and About the Source
 
 #### Video Demo
 
@@ -21,7 +22,7 @@ https://github.com/user-attachments/assets/4bd6303c-3d06-4285-8f6c-bdd29a1ea404
 Users have instructions on how to use TestSmith. They can enter test metadata (Test Title and Instructions), as well as clear all current data to start a new test.
 
 <p align="center">
-  <img width="604" alt="image" src="https://github.com/user-attachments/assets/e58b53b6-4c78-406a-a389-bc38d9bdcd56">
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/e58b53b6-4c78-406a-a389-bc38d9bdcd56">
 </p>
 
 
@@ -43,7 +44,10 @@ Examples:
   <img width="376" alt="image" src="https://github.com/user-attachments/assets/99adb852-9858-4c93-be50-7398b64ad513">
 </p>
 
-#### Responsible Use Disclaimer
+#### 📥 Download Files
+User can download test and answer key as PDF. 
+
+#### ❗ Disclaimer
 <img width="601" alt="image" src="https://github.com/user-attachments/assets/b817f181-20b8-44be-bf77-a16c57600dfe">
 
 Github Link: https://github.com/kathyyao06/testSmith
