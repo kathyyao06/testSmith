@@ -8,8 +8,12 @@ TestSmith utilizes Generative AI to create multiple-choice tests and answer keys
 2. Run streamlit application: streamlit run Home.py
 
 ### Application Overview
+- 📢 **Introductions Page:** Website Overview, and Add Test Metadata (Title, Instructions)
+- ✍ **Add Question to Test:** Enter question context and test question to generate multiple choice answers. Manually edit generated answers. Add question and multiple choice answers to test.
+- **📝 View/Edit Test & 📚 View/Edit Answer Key:** View and delete questions from test and answer key.
+- **📥 Download Files:** Download test and answer key.
 
-#### Home Page
+#### Introduction
 
 <p align="center">
   <img width="800" alt="image" src="https://github.com/user-attachments/assets/1c5c56f5-6478-4cad-9a38-1d989a8343dd">
